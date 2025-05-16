@@ -3,7 +3,6 @@
             [cheshire.core :as json]))
 
 ;; AWS credentials in namespace-level vars
-(def ^:private aws-access-key "AKIAIOSFODNN7EXAMPLE")
 (def ^:private aws-secret-key "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY")
 
 ;; Stripe API key in namespace-level var

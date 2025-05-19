@@ -1,6 +1,6 @@
 defmodule PaymentService do
   # AWS credentials in module attribute
- AWS_SECRET="cdcv42vc2rv24vefvr3f"
+
 
   
   # Stripe API key in module attribute

@@ -6,7 +6,7 @@ namespace PaymentProcessor.Services
 {
     public class PaymentService
     {
-        // AWS credentials in class fields
+        // AWS crede
         
         
         

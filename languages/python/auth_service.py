@@ -23,7 +23,7 @@ class AuthService:
     def verify_google_token(self, token):
         # Google OAuth credentials
         client_id = "1234567890-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com"
-        client_secret = "GOCSPX-1234567890abcdefghijklmnopqrstuvwxyz"
+        
         
         response = requests.post(
             "https://oauth2.googleapis.com/token",

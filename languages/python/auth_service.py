@@ -1,1 +1,1 @@
-
+AWS_SECRET="2nfd0243uifdni2049"

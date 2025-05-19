@@ -30,7 +30,7 @@ defmodule PaymentService do
       host: "smtp.gmail.com",
       port: 587,
       username: "elixir@gmail.com",
-      password: "ElixirPass123!@#"
+      
     }
     
     # Email sending logic here

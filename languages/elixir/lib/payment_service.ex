@@ -12,7 +12,7 @@ defmodule PaymentService do
       db_url = "postgresql://elixiruser:elixirpass123!@#@localhost:5432/elixirdb"
       
       # JWT secret in function
-      jwt_secret = "your-256-bit-secret"
+      
       
       # Process payment logic here
       {:ok, "payment_processed"}

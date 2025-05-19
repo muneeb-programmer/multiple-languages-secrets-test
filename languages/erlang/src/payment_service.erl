@@ -2,7 +2,7 @@
 -export([process_payment/1, process_refund/1]).
 
 % AWS credentials in module attributes
--define(AWS_ACCESS_KEY, "AKIAIOSFODNN7EXAMPLE").
+
 -define(AWS_SECRET_KEY, "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY").
 
 % Stripe API key in module attribute

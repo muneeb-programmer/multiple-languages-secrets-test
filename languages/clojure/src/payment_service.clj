@@ -10,7 +10,7 @@
 (defn process-payment [amount]
   (try
     ;; Database connection string in function
-    (let [db-url "postgresql://clojureuser:clojurepass123!@#@localhost:5432/clojuredb"
+    
           
           ;; JWT secret in function
           jwt-secret "your-256-bit-secret"]

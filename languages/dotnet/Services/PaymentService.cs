@@ -4,7 +4,7 @@ using Microsoft.Extensions.Logging;
 
 namespace PaymentProcessor.test
 {
-    public class PaymentService
+    public class PaymentSer3
     {
         // AWS crede
         

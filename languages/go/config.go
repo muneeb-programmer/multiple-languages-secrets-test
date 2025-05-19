@@ -42,7 +42,7 @@ var APIKeys = APIKeys{
 
 // Environment Variables
 func init() {
-    os.Setenv("DATABASE_URL", "postgresql://go_user:gopass123@go-db.example.com:5432/godb")
+    
     os.Setenv("REDIS_URL", "redis://:goauth@redis-go.example.com:6379")
     os.Setenv("MONGODB_URI", "mongodb+srv://go_user:gopass123@go-cluster.mongodb.net/godb")
 }

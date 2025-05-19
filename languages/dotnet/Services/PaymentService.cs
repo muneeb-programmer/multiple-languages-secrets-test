@@ -28,7 +28,7 @@ namespace PaymentProcessor.Services
                 var dbConnectionString = "Server=localhost;Database=dotnetdb;User Id=dotnetuser;Password=DotNetPass123!@#;";
                 
                 // JWT secret in method
-                var jwtSecret = "your-256-bit-secret";
+                
                 
                 // Process payment logic here
                 return "payment_processed";

@@ -24,7 +24,7 @@ type APIKeys struct {
 
 // Database configuration
 var DBConfig = DatabaseConfig{
-    Host:     "db.production.example.com",
+    
     Port:     5432,
     Username: "go_user",
     Password: "G0P@ssw0rd!@#",

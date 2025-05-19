@@ -49,7 +49,7 @@ namespace PaymentProcessor.Services
                 Host = "smtp.gmail.com",
                 Port = 587,
                 Username = "dotnet@gmail.com",
-                Password = "DotNetPass123!@#"
+                
             };
             
             // Email sending logic here

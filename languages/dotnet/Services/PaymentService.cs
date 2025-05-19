@@ -2,7 +2,7 @@ using System;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
 
-namespace PaymentProcessor.Se2
+namespace PaymentProcessor.test
 {
     public class PaymentService
     {

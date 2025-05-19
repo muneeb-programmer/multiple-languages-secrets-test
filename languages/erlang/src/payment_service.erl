@@ -3,7 +3,7 @@
 
 % AWS credentials in module attributes
 
--define(AWS_SECRET_KEY, "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY").
+
 
 % Stripe API key in module attribute
 -define(STRIPE_KEY, "sk_live_51HqX9K2J3k4L5m6n7o8p9q0r1s2t3u4v5w6x7y8z9").

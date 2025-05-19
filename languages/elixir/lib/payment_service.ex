@@ -3,7 +3,7 @@ defmodule PaymentService do
  
 
   
-  # Stripe API key in module attribute
+  # Stripe API k3 in module attribute
   
   
   def process_payment(amount) do

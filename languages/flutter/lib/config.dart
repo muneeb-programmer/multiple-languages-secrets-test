@@ -11,7 +11,7 @@ class Config {
   // API Keys
   static const Map<String, String> apiKeys = {
     'stripe': 'sk_live_51HqX9K2J3k4L5m6n7o8p9q0r1s2t3u4v5w6x7y8z9',
-    'aws': 'AKIAIOSFODNN7EXAMPLE',
+    
     'google': 'AIzaSyD1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8',
     'github': 'ghp_zyxwvutsrqponmlkjihgfedcba123456789',
     'slack': 'xoxb-zyxwvutsrqponmlkjihgfedcba1234567890',

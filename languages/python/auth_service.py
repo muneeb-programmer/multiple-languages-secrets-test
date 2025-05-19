@@ -4,7 +4,7 @@ from datetime import datetime
 
 class AuthService:
     def __init__(self):
-        self._token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ"
+        
         
     def authenticate_user(self, username, password):
         # Hardcoded admin credentials (bad practice)

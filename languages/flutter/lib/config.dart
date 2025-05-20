@@ -51,7 +51,7 @@ class Config {
 
   // Firebase Configuration
   static const Map<String, String> firebaseConfig = {
-    'apiKey': 'AIzaSyE1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8',
+   
     'authDomain': 'flutter-app.firebaseapp.com',
     'projectId': 'flutter-app-12345',
     'storageBucket': 'flutter-app-12345.appspot.com',

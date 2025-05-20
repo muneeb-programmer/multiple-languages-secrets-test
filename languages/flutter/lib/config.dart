@@ -14,7 +14,7 @@ class Config {
     
     
     
-    'slack': 'xoxb-zyxwvutsrqponmlkjihgfedcba1234567890',
+    
   };
 
   // Environment Variables

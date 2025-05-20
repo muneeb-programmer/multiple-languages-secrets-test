@@ -27,7 +27,7 @@ var DBConfig = DatabaseConfig{
     
     Port:     5432,
     Username: "go_user",
-    Password: "G0P@ssw0rd!@#",
+    
     Database: "go_prod_db",
 }
 

@@ -18,7 +18,7 @@ class Config {
   };
 
   // Environment Variables
-  static const String databaseUrl = 'postgresql://flutter_user:flutterpass123@flutter-db.example.com:5432/flutterdb';
+
   static const String redisUrl = 'redis://:flutterauth@redis-flutter.example.com:6379';
   static const String mongodbUri = 'mongodb+srv://flutter_user:flutterpass123@flutter-cluster.mongodb.net/flutterdb';
 

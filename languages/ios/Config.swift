@@ -35,7 +35,6 @@ struct Config {
     // OAuth Configuration
     struct OAuthConfig {
         static let clientId = "1234567890-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com"
-        static let clientSecret = "GOCSPX-1234567890abcdefghijklmnopqrstuvwxyz"
         static let redirectUri = "https://ios.example.com/oauth/callback"
     }
     
